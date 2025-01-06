@@ -1,6 +1,4 @@
 // first import install libery 
-
-import express from "express";
 import bodyParse from "body-parser";
 import mongoose from "mongoose";
 
